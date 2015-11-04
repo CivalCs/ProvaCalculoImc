@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">IndiceDeMassa</string>
+    <string name="action_settings">Settings</string>
+    <!--My strings-->
+    <string name="peso">Enter your weigth:</string>
+    <string name="altura">Enter your height:</string>
+    <string name="calcular">Calculate</string>
+    <string name="imc">Result</string>
+    <string name="abaixo">Under weight</string>
+    <string name="peso_ideal">Ideal weight</string>
+    <string name="acima">Slightly overweight</string>
+    <string name="obesidade_i">Grade I obesity</string>
+    <string name="obesidade_ii">Grade II obesity</string>
+    <string name="obesidade_iii">Grade III obesity</string>
+</resources>
